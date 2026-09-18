@@ -1,0 +1,6 @@
+{
+  "name": "TermAI-Core",
+  "description": "Alat bantu pengembangan berbasis terminal (Terminal-First) ringan bertenaga AI dengan pemahaman kode repo-wide berbasis Tree-sitter dan RAG lokal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
